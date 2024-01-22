@@ -1,0 +1,23 @@
+body{
+    background-color: #7a062f;
+}
+
+form{
+    background-color: #53020a;
+    width: 50%;
+    margin: auto;
+    height: 700px;
+    padding: 70px;
+}
+
+label,p{
+    margin-left: 80px;
+    margin-bottom: 25px;
+    color: white;
+    height: 20px;
+}
+
+button{
+    margin-left: 90px;
+}
+

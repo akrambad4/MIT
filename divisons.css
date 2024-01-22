@@ -1,0 +1,17 @@
+.main{
+    display: grid;
+}
+
+.one{
+    display: flex;
+}
+
+img{
+    width: 80%;
+    height: 150px;
+}
+
+p{
+    margin-left: 10px;
+    padding-left: 10px;
+}
